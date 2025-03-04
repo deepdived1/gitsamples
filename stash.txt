@@ -1,2 +1,6 @@
 created for stashfile
+<<<<<<< Updated upstream
 stash file updated after stash command
+=======
+testing purpose
+>>>>>>> Stashed changes
