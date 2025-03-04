@@ -1,1 +1,2 @@
 created for stashfile
+stash file updated after stash command
